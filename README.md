@@ -43,7 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 React application which display message and icons about season based on latitude position of your location.
 
-## Link to a website
+## Link to website
 
 ```
 https://zoom-season-display.netlify.app/
