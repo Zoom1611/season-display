@@ -41,6 +41,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Description
 
-React application which display message and icons about season based on latitude position of your loaction.
+React application which display message and icons about season based on latitude position of your location.
 
 ## Link to a website
+
+```
+https://zoom-season-display.netlify.app/
+```
